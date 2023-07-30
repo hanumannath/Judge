@@ -15,7 +15,6 @@ Didnt have time to implement this answer api justt model i have created(wasted m
 The Quiz app have following api's:
 
 #user apis
-
 1./users/users/login  --for login user
 2/users/users/logout   --for logout user
 (here forgot to create register api)
